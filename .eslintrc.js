@@ -17,6 +17,10 @@ module.exports = {
     'require-jsdoc': 'off',
     'max-len': 'off',
     'linebreak-style': 'off',
-    'eol-last': 'off'
+    'eol-last': 'off',
+    'object-curly-spacing': 'off',
+    'indent': 'off',
+    'no-unused-vars': 'off',
+    'arrow-parens': 'off'
   }
 }
